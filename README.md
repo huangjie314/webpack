@@ -1,6 +1,5 @@
 ## webpack.config.js  
 
-参考资料:https://www.jianshu.com/p/42e11515c10f
 
 ~~~
 const webpack = require('webpack');
